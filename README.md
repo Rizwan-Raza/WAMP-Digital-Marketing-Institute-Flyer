@@ -6,5 +6,5 @@ A Doodle based Design of Flyer to be printed for distribution by WAMP Institute
 What things you need to install the software and how to install them
 
 ```
-Photoshop CC (any version, Recommeded: Adobe Photoshop CC 2015)
+Photoshop CC (any version, Recommended: Adobe Photoshop CC 2015)
 ```
